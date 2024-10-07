@@ -1,15 +1,7 @@
-<<<<<<< HEAD
+pip install --upgrade pip
 streamlit
 opencv-python-headless
 deepface
 spotipy
 requests
 pandas
-=======
-streamlit
-opencv-python-headless
-deepface
-spotipy
-requests
-pandas
->>>>>>> db452d7d218ac32d5e540117181ec4f8a2f64f22
